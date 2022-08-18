@@ -8,3 +8,6 @@
 
 - ⚡ I like to play chess as well as some strategy games.
 - Pronoun : He/His
+
+
+## Skill and Experience
