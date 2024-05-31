@@ -15,6 +15,10 @@
 - Tools: AWS, Microsoft Azure
 
 ## Projects
+
+
+
+- Python GUI ,PYGAME related : Song Playlist Making
 - [ I will update later]
 ## How to Reach Me
 - 📫 E[ I will update later]
