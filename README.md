@@ -6,7 +6,7 @@
 
 ## About Me
 - 🎓 I recently graduated from Centennial College with a degree in Artificial Intelligence - Software Engineering Technology, where I honed my skills in deep learning, cloud computing, and software development
-- 🌱 Currently learning more about Deep Learning and Cloud Machine Learning.
+- 🌱 Currently learning more about genAI , ML OPS.
 - 👯 Looking to collaborate on projects in AI and machine learning.
 
 ## Technologies I Use
