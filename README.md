@@ -11,7 +11,7 @@
 
 ## Technologies that I know
 
-- Machine Learning skills : Data preprocessing, model training, evaluation, deployment
+- Machine Learning skills : Data preprocessing, model training, evaluation, deployment, hands-on with Generative AI
 - Languages: Python, Java, C#, SQL,
       for Python NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow
   
