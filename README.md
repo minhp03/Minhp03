@@ -10,9 +10,13 @@
 - 👯 Looking to collaborate on projects in AI and machine learning
 
 ## Technologies that I know
-- Languages: Python, Java, C#, SQL, 
-- Frameworks: TensorFlow, Pytorch, Scikit - learn,
-- Tools: AWS, Microsoft Azure, Gradio,Streamlit, Kafka
+
+- Machine Learning skills : Data preprocessing, model training, evaluation, deployment
+- Languages: Python, Java, C#, SQL,
+      for Python NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow
+  
+- Tools Familiarity: AWS, Microsoft Azure, Gradio,Streamlit, Kafka
+- Knowledge of SQL & NoSQL databases
 
 ## Star Projects
 - [ I will update later, I am still choosing ]
