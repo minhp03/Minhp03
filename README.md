@@ -12,7 +12,7 @@
 ## Technologies that I know
 - Languages: Python, Java, C#, SQL, 
 - Frameworks: TensorFlow, Pytorch, Scikit - learn,
-- Tools: AWS, Microsoft Azure, Gradio,Streamlit, Kafka(low-level)
+- Tools: AWS, Microsoft Azure, Gradio,Streamlit, Kafka
 
 ## Star Projects
 - [ I will update later, I am still choosing ]
