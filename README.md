@@ -12,11 +12,12 @@
 ## Technologies that I know
 
 - Machine Learning skills : Data preprocessing with NLP/csv , model training, evaluation, deployment, hands-on with Generative AI, 
-- Languages: Python, Java, C#, SQL,
-      for Python NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow
+- Languages: Python,C#, SQL,
+      for Python-  NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow
+              
   
 - Tools Familiarity: AWS, Microsoft Azure, Gradio,Streamlit, Kafka
-- Knowledge of SQL & NoSQL databases
+- Knowledge of SQL databases , hands on with FastAPI
 
 ## Star Projects
 - [ I will update later, I am still choosing ]
