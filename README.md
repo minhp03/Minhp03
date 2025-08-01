@@ -2,14 +2,13 @@
 # Hello, I'm Minh👋
 
 ## About Me
-- < Due to family event,financial situation, I am slowly contribute , study on coding , it might takes me sometimes until I get enough money for pursue higher education and free time, I still love to solve real world-problem , AI, coding :D , hopefully my works,practices earn some reward in the future >
+- < Due to family event,financial situation, I am slowly contribute , study on coding , it might takes me sometimes until I get enough money for pursue higher education and free time, I still love to solve real world-problem , AI, coding :D , hopefully my works,practices earn some rewards in the future >
   
-- Right now I am working at  [Fedex](https://www.fedex.com/en-ca/home.html) as Data System Agent , I am saving money to pursue Bachelors as well as Master in CS specialize in AI.
+- Right now I am working at  [Fedex](https://www.fedex.com/en-ca/home.html) as Data System Agent , I am saving money to pursue Bachelors as well as Master in CS specialize in AI,either I will go up in tech or another way around :D .
 
 - 🎓 I  graduated from Centennial College with a degree in Artificial Intelligence - Software Engineering Technology, where I honed my skills in deep learning, cloud computing, and software development
 
   🌱 Currently learning more about genAI , ML OPS while working full time job which not really related to AI-CS much , mostly about data! but I am still trying to self study mostly everyday to head into tech field.
-
 
 
 ## Technologies + Starproject
